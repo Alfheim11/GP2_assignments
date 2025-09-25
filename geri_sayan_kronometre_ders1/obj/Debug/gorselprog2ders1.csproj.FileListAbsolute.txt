@@ -1,0 +1,11 @@
+C:\Users\TÜRKER EFE\source\repos\gorselprog2ders1\bin\Debug\gorselprog2ders1.exe.config
+C:\Users\TÜRKER EFE\source\repos\gorselprog2ders1\bin\Debug\gorselprog2ders1.exe
+C:\Users\TÜRKER EFE\source\repos\gorselprog2ders1\bin\Debug\gorselprog2ders1.pdb
+C:\Users\TÜRKER EFE\source\repos\gorselprog2ders1\obj\Debug\gorselprog2ders1.csproj.AssemblyReference.cache
+C:\Users\TÜRKER EFE\source\repos\gorselprog2ders1\obj\Debug\gorselprog2ders1.Form1.resources
+C:\Users\TÜRKER EFE\source\repos\gorselprog2ders1\obj\Debug\gorselprog2ders1.Properties.Resources.resources
+C:\Users\TÜRKER EFE\source\repos\gorselprog2ders1\obj\Debug\gorselprog2ders1.csproj.GenerateResource.cache
+C:\Users\TÜRKER EFE\source\repos\gorselprog2ders1\obj\Debug\gorselprog2ders1.csproj.CoreCompileInputs.cache
+C:\Users\TÜRKER EFE\source\repos\gorselprog2ders1\obj\Debug\gorselprog2ders1.exe
+C:\Users\TÜRKER EFE\source\repos\gorselprog2ders1\obj\Debug\gorselprog2ders1.pdb
+C:\Users\TÜRKER EFE\source\repos\gorselprog2ders1\obj\Debug\gorselprog2ders1.exe.config
