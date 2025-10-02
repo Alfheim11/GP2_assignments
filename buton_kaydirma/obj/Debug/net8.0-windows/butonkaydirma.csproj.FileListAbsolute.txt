@@ -1,0 +1,16 @@
+C:\Users\turke\source\repos\butonkaydirma\bin\Debug\net8.0-windows\butonkaydirma.exe
+C:\Users\turke\source\repos\butonkaydirma\bin\Debug\net8.0-windows\butonkaydirma.deps.json
+C:\Users\turke\source\repos\butonkaydirma\bin\Debug\net8.0-windows\butonkaydirma.runtimeconfig.json
+C:\Users\turke\source\repos\butonkaydirma\bin\Debug\net8.0-windows\butonkaydirma.dll
+C:\Users\turke\source\repos\butonkaydirma\bin\Debug\net8.0-windows\butonkaydirma.pdb
+C:\Users\turke\source\repos\butonkaydirma\obj\Debug\net8.0-windows\butonkaydirma.Form1.resources
+C:\Users\turke\source\repos\butonkaydirma\obj\Debug\net8.0-windows\butonkaydirma.csproj.GenerateResource.cache
+C:\Users\turke\source\repos\butonkaydirma\obj\Debug\net8.0-windows\butonkaydirma.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\turke\source\repos\butonkaydirma\obj\Debug\net8.0-windows\butonkaydirma.AssemblyInfoInputs.cache
+C:\Users\turke\source\repos\butonkaydirma\obj\Debug\net8.0-windows\butonkaydirma.AssemblyInfo.cs
+C:\Users\turke\source\repos\butonkaydirma\obj\Debug\net8.0-windows\butonkaydirma.csproj.CoreCompileInputs.cache
+C:\Users\turke\source\repos\butonkaydirma\obj\Debug\net8.0-windows\butonkaydirma.dll
+C:\Users\turke\source\repos\butonkaydirma\obj\Debug\net8.0-windows\refint\butonkaydirma.dll
+C:\Users\turke\source\repos\butonkaydirma\obj\Debug\net8.0-windows\butonkaydirma.pdb
+C:\Users\turke\source\repos\butonkaydirma\obj\Debug\net8.0-windows\butonkaydirma.genruntimeconfig.cache
+C:\Users\turke\source\repos\butonkaydirma\obj\Debug\net8.0-windows\ref\butonkaydirma.dll
