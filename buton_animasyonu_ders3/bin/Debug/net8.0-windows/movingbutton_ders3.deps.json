@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "movingbutton_ders3/1.0.0": {
+        "runtime": {
+          "movingbutton_ders3.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "movingbutton_ders3/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

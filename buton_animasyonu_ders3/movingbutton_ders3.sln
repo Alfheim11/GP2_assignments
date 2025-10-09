@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35825.156 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "movingbutton_ders3", "movingbutton_ders3.csproj", "{2BD3B3ED-7D12-47D3-A256-73FD0CF7D6B5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2BD3B3ED-7D12-47D3-A256-73FD0CF7D6B5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2BD3B3ED-7D12-47D3-A256-73FD0CF7D6B5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2BD3B3ED-7D12-47D3-A256-73FD0CF7D6B5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2BD3B3ED-7D12-47D3-A256-73FD0CF7D6B5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EDA81F5D-4592-46EA-A339-A826D52854B4}
+	EndGlobalSection
+EndGlobal
