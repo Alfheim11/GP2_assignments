@@ -1,0 +1,16 @@
+C:\Users\turke\source\repos\sayısecmeoyunu_ders4\bin\Debug\net8.0-windows\sayısecmeoyunu_ders4.exe
+C:\Users\turke\source\repos\sayısecmeoyunu_ders4\bin\Debug\net8.0-windows\sayısecmeoyunu_ders4.deps.json
+C:\Users\turke\source\repos\sayısecmeoyunu_ders4\bin\Debug\net8.0-windows\sayısecmeoyunu_ders4.runtimeconfig.json
+C:\Users\turke\source\repos\sayısecmeoyunu_ders4\bin\Debug\net8.0-windows\sayısecmeoyunu_ders4.dll
+C:\Users\turke\source\repos\sayısecmeoyunu_ders4\bin\Debug\net8.0-windows\sayısecmeoyunu_ders4.pdb
+C:\Users\turke\source\repos\sayısecmeoyunu_ders4\obj\Debug\net8.0-windows\sayısecmeoyunu_ders4.Form1.resources
+C:\Users\turke\source\repos\sayısecmeoyunu_ders4\obj\Debug\net8.0-windows\sayısecmeoyunu_ders4.csproj.GenerateResource.cache
+C:\Users\turke\source\repos\sayısecmeoyunu_ders4\obj\Debug\net8.0-windows\sayısecmeoyunu_ders4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\turke\source\repos\sayısecmeoyunu_ders4\obj\Debug\net8.0-windows\sayısecmeoyunu_ders4.AssemblyInfoInputs.cache
+C:\Users\turke\source\repos\sayısecmeoyunu_ders4\obj\Debug\net8.0-windows\sayısecmeoyunu_ders4.AssemblyInfo.cs
+C:\Users\turke\source\repos\sayısecmeoyunu_ders4\obj\Debug\net8.0-windows\sayısecmeoyunu_ders4.csproj.CoreCompileInputs.cache
+C:\Users\turke\source\repos\sayısecmeoyunu_ders4\obj\Debug\net8.0-windows\sayısecmeoyunu_ders4.dll
+C:\Users\turke\source\repos\sayısecmeoyunu_ders4\obj\Debug\net8.0-windows\refint\sayısecmeoyunu_ders4.dll
+C:\Users\turke\source\repos\sayısecmeoyunu_ders4\obj\Debug\net8.0-windows\sayısecmeoyunu_ders4.pdb
+C:\Users\turke\source\repos\sayısecmeoyunu_ders4\obj\Debug\net8.0-windows\sayısecmeoyunu_ders4.genruntimeconfig.cache
+C:\Users\turke\source\repos\sayısecmeoyunu_ders4\obj\Debug\net8.0-windows\ref\sayısecmeoyunu_ders4.dll
